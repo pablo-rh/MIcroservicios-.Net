@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Dtos/Example.Catalogos.Dtos.csproj": {}
+  },
+  "projects": {
+    "/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Dtos/Example.Catalogos.Dtos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Dtos/Example.Catalogos.Dtos.csproj",
+        "projectName": "Example.Catalogos.Dtos",
+        "projectPath": "/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Dtos/Example.Catalogos.Dtos.csproj",
+        "packagesPath": "/home/axity/.nuget/packages/",
+        "outputPath": "/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Dtos/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/axity/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.1.118, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

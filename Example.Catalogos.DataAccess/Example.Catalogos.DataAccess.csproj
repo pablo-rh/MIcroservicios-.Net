@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Example.Catalogos.Repository\Example.Catalogos.Entities.csproj" />
+    <ProjectReference Include="..\Example.Catalogos.Resources\Example.Catalogos.Resources.csproj" />
+  </ItemGroup>
+
+</Project>

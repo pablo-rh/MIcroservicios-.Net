@@ -1,0 +1,648 @@
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/obj/Debug/netcoreapp3.1/Example.Catalogos.Api.csprojAssemblyReference.cache
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/obj/Debug/netcoreapp3.1/Example.Catalogos.Api.AssemblyInfoInputs.cache
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/obj/Debug/netcoreapp3.1/Example.Catalogos.Api.AssemblyInfo.cs
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/obj/Debug/netcoreapp3.1/Example.Catalogos.Api.csproj.CoreCompileInputs.cache
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/obj/Debug/netcoreapp3.1/Example.Catalogos.Api.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/obj/Debug/netcoreapp3.1/Example.Catalogos.Api.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/appsettings.Development.json
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/appsettings.json
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/appsettings.Local.json
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/appsettings.Prod.json
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/appsettings.Staging.json
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/project.json
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Example.Catalogos.Api.exe
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Example.Catalogos.Api.deps.json
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Example.Catalogos.Api.runtimeconfig.json
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Example.Catalogos.Api.runtimeconfig.dev.json
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Example.Catalogos.Api.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Example.Catalogos.Api.pdb
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Example.Catalogos.Api.xml
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/HealthChecks.UI.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/HealthChecks.UI.Client.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/AutoMapper.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Consul.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/KubernetesClient.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.AspNetCore.JsonPatch.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.Data.Sqlite.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.EntityFrameworkCore.Sqlite.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.EntityFrameworkCore.Sqlite.Design.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.Extensions.FileProviders.Abstractions.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.Extensions.Hosting.Abstractions.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.Extensions.Options.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.Identity.Client.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.OpenApi.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.Rest.ClientRuntime.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/dotnet-aspnet-codegenerator-design.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Newtonsoft.Json.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/NuGet.Frameworks.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Pipelines.Sockets.Unofficial.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/BouncyCastle.Crypto.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Prometheus.NetCore.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Prometheus.NetStandard.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Prometheus.AspNetCore.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Serilog.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Serilog.Extensions.Logging.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Serilog.Formatting.Compact.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Serilog.Sinks.File.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Serilog.Sinks.PeriodicBatching.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Serilog.Sinks.RollingFile.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Serilog.Sinks.Seq.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/SQLitePCLRaw.batteries_v2.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/SQLitePCLRaw.nativelibrary.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/SQLitePCLRaw.core.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/StackExchange.Redis.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Steeltoe.CloudFoundry.ConnectorBase.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Steeltoe.Common.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Steeltoe.Common.Hosting.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Steeltoe.Common.Http.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Steeltoe.Discovery.ClientCore.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Steeltoe.Discovery.ConsulBase.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Steeltoe.Discovery.EurekaBase.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Steeltoe.Extensions.Configuration.CloudFoundryBase.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Steeltoe.Extensions.Configuration.CloudFoundryCore.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Steeltoe.Extensions.Configuration.PlaceholderBase.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Steeltoe.Extensions.Configuration.PlaceholderCore.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/System.Collections.Immutable.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/System.Composition.AttributedModel.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/System.Composition.Convention.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/System.Composition.Hosting.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/System.Composition.Runtime.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/System.Composition.TypedParts.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/System.Diagnostics.PerformanceCounter.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/System.IO.Pipelines.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/System.Runtime.Caching.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/System.Runtime.CompilerServices.Unsafe.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/System.Threading.Channels.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/YamlDotNet.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/cs/Microsoft.CodeAnalysis.resources.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/de/Microsoft.CodeAnalysis.resources.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/es/Microsoft.CodeAnalysis.resources.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/fr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/it/Microsoft.CodeAnalysis.resources.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/ja/Microsoft.CodeAnalysis.resources.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/ko/Microsoft.CodeAnalysis.resources.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/pl/Microsoft.CodeAnalysis.resources.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/ru/Microsoft.CodeAnalysis.resources.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/tr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/runtimes/alpine-x64/native/libe_sqlite3.so
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/runtimes/linux-arm/native/libe_sqlite3.so
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/runtimes/linux-arm64/native/libe_sqlite3.so
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/runtimes/linux-armel/native/libe_sqlite3.so
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/runtimes/linux-musl-x64/native/libe_sqlite3.so
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/runtimes/linux-x64/native/libe_sqlite3.so
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/runtimes/linux-x86/native/libe_sqlite3.so
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/runtimes/osx-x64/native/libe_sqlite3.dylib
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/runtimes/win-arm/native/e_sqlite3.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/runtimes/win-arm64/native/e_sqlite3.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/runtimes/win-x64/native/e_sqlite3.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/runtimes/win-x86/native/e_sqlite3.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Diagnostics.PerformanceCounter.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/runtimes/unix/lib/netstandard1.3/System.Net.Http.WinHttpHandler.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/runtimes/win/lib/netstandard1.3/System.Net.Http.WinHttpHandler.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Example.Catalogos.DataAccess.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Example.Catalogos.DependencyInjection.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Example.Catalogos.Dtos.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Example.Catalogos.Entities.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Example.Catalogos.Facade.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Example.Catalogos.Resources.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Example.Catalogos.Services.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Example.Catalogos.DependencyInjection.pdb
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Example.Catalogos.Facade.pdb
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Example.Catalogos.Resources.pdb
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Example.Catalogos.DataAccess.pdb
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Example.Catalogos.Dtos.pdb
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Example.Catalogos.Entities.pdb
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Example.Catalogos.Services.pdb
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/obj/Debug/netcoreapp3.1/Example.Catalogos.Api.RazorTargetAssemblyInfo.cache
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/obj/Debug/netcoreapp3.1/Example.Catalogos.Api.csproj.CopyComplete
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/obj/Debug/netcoreapp3.1/Example.Catalogos.Api.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/obj/Debug/netcoreapp3.1/Example.Catalogos.Api.pdb
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Api/obj/Debug/netcoreapp3.1/Example.Catalogos.Api.genruntimeconfig.cache
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/appsettings.Development.json
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/appsettings.json
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/appsettings.Local.json
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/appsettings.Prod.json
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/appsettings.Staging.json
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/project.json
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Properties/launchSettings.json
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Example.Catalogos.Api.exe
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Example.Catalogos.Api.deps.json
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Example.Catalogos.Api.runtimeconfig.json
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Example.Catalogos.Api.runtimeconfig.dev.json
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Example.Catalogos.Api.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Example.Catalogos.Api.pdb
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Example.Catalogos.Api.xml
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/HealthChecks.UI.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/HealthChecks.UI.Client.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/AutoMapper.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Consul.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/KubernetesClient.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.AspNetCore.JsonPatch.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.Data.Sqlite.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.EntityFrameworkCore.Sqlite.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.EntityFrameworkCore.Sqlite.Design.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.Extensions.FileProviders.Abstractions.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.Extensions.Hosting.Abstractions.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.Extensions.Options.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.Identity.Client.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.OpenApi.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.Rest.ClientRuntime.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/dotnet-aspnet-codegenerator-design.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Newtonsoft.Json.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/NuGet.Frameworks.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Pipelines.Sockets.Unofficial.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/BouncyCastle.Crypto.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Prometheus.NetCore.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Prometheus.NetStandard.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Prometheus.AspNetCore.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Serilog.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Serilog.Extensions.Logging.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Serilog.Formatting.Compact.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Serilog.Sinks.File.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Serilog.Sinks.PeriodicBatching.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Serilog.Sinks.RollingFile.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Serilog.Sinks.Seq.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/SQLitePCLRaw.batteries_v2.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/SQLitePCLRaw.nativelibrary.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/SQLitePCLRaw.core.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/StackExchange.Redis.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Steeltoe.CloudFoundry.ConnectorBase.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Steeltoe.Common.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Steeltoe.Common.Hosting.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Steeltoe.Common.Http.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Steeltoe.Discovery.ClientCore.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Steeltoe.Discovery.ConsulBase.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Steeltoe.Discovery.EurekaBase.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Steeltoe.Extensions.Configuration.CloudFoundryBase.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Steeltoe.Extensions.Configuration.CloudFoundryCore.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Steeltoe.Extensions.Configuration.PlaceholderBase.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Steeltoe.Extensions.Configuration.PlaceholderCore.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/System.Collections.Immutable.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/System.Composition.AttributedModel.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/System.Composition.Convention.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/System.Composition.Hosting.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/System.Composition.Runtime.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/System.Composition.TypedParts.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/System.Diagnostics.PerformanceCounter.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/System.IO.Pipelines.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/System.Runtime.Caching.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/System.Runtime.CompilerServices.Unsafe.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/System.Threading.Channels.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/YamlDotNet.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/cs/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/de/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/es/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/fr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/it/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/ja/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/ko/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/pl/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/ru/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/tr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/runtimes/alpine-x64/native/libe_sqlite3.so
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/runtimes/linux-arm/native/libe_sqlite3.so
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/runtimes/linux-arm64/native/libe_sqlite3.so
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/runtimes/linux-armel/native/libe_sqlite3.so
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/runtimes/linux-musl-x64/native/libe_sqlite3.so
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/runtimes/linux-x64/native/libe_sqlite3.so
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/runtimes/linux-x86/native/libe_sqlite3.so
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/runtimes/osx-x64/native/libe_sqlite3.dylib
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/runtimes/win-arm/native/e_sqlite3.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/runtimes/win-arm64/native/e_sqlite3.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/runtimes/win-x64/native/e_sqlite3.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/runtimes/win-x86/native/e_sqlite3.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Diagnostics.PerformanceCounter.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/runtimes/unix/lib/netstandard1.3/System.Net.Http.WinHttpHandler.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/runtimes/win/lib/netstandard1.3/System.Net.Http.WinHttpHandler.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Example.Catalogos.DataAccess.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Example.Catalogos.DependencyInjection.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Example.Catalogos.Dtos.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Example.Catalogos.Entities.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Example.Catalogos.Facade.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Example.Catalogos.Resources.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Example.Catalogos.Services.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Example.Catalogos.DependencyInjection.pdb
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Example.Catalogos.Facade.pdb
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Example.Catalogos.Resources.pdb
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Example.Catalogos.DataAccess.pdb
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Example.Catalogos.Dtos.pdb
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Example.Catalogos.Entities.pdb
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Example.Catalogos.Services.pdb
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/obj/Debug/netcoreapp3.1/Example.Catalogos.Api.csprojAssemblyReference.cache
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/obj/Debug/netcoreapp3.1/Example.Catalogos.Api.AssemblyInfoInputs.cache
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/obj/Debug/netcoreapp3.1/Example.Catalogos.Api.AssemblyInfo.cs
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/obj/Debug/netcoreapp3.1/Example.Catalogos.Api.csproj.CoreCompileInputs.cache
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/obj/Debug/netcoreapp3.1/Example.Catalogos.Api.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/obj/Debug/netcoreapp3.1/Example.Catalogos.Api.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/obj/Debug/netcoreapp3.1/Example.Catalogos.Api.RazorTargetAssemblyInfo.cache
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/obj/Debug/netcoreapp3.1/Example.Catalogos.Api.csproj.CopyComplete
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/obj/Debug/netcoreapp3.1/Example.Catalogos.Api.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/obj/Debug/netcoreapp3.1/Example.Catalogos.Api.pdb
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Api/obj/Debug/netcoreapp3.1/Example.Catalogos.Api.genruntimeconfig.cache
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/appsettings.Development.json
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/appsettings.json
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/appsettings.Local.json
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/appsettings.Prod.json
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/appsettings.Staging.json
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/project.json
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Example.Catalogos.Api
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Example.Catalogos.Api.deps.json
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Example.Catalogos.Api.runtimeconfig.json
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Example.Catalogos.Api.runtimeconfig.dev.json
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Example.Catalogos.Api.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Example.Catalogos.Api.pdb
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Example.Catalogos.Api.xml
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/HealthChecks.UI.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/HealthChecks.UI.Client.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/AutoMapper.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Consul.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/KubernetesClient.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.AspNetCore.JsonPatch.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.Data.Sqlite.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.Design.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.EntityFrameworkCore.Sqlite.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.EntityFrameworkCore.Sqlite.Design.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.Extensions.Diagnostics.HealthChecks.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.Extensions.FileProviders.Abstractions.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.Extensions.Hosting.Abstractions.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.Identity.Client.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.OpenApi.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.Rest.ClientRuntime.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/dotnet-aspnet-codegenerator-design.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Microsoft.Win32.Registry.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Newtonsoft.Json.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/NuGet.Frameworks.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Pipelines.Sockets.Unofficial.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/BouncyCastle.Crypto.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Prometheus.NetCore.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Prometheus.NetStandard.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Prometheus.AspNetCore.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Serilog.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Serilog.Extensions.Logging.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Serilog.Formatting.Compact.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Serilog.Sinks.File.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Serilog.Sinks.PeriodicBatching.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Serilog.Sinks.RollingFile.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Serilog.Sinks.Seq.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/SQLitePCLRaw.batteries_v2.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/SQLitePCLRaw.nativelibrary.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/SQLitePCLRaw.core.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/StackExchange.Redis.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Steeltoe.CloudFoundry.ConnectorBase.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Steeltoe.Common.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Steeltoe.Common.Hosting.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Steeltoe.Common.Http.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Steeltoe.Discovery.ClientCore.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Steeltoe.Discovery.ConsulBase.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Steeltoe.Discovery.EurekaBase.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Steeltoe.Extensions.Configuration.CloudFoundryBase.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Steeltoe.Extensions.Configuration.CloudFoundryCore.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Steeltoe.Extensions.Configuration.PlaceholderBase.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Steeltoe.Extensions.Configuration.PlaceholderCore.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Swashbuckle.AspNetCore.Swagger.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/System.Collections.Immutable.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/System.ComponentModel.Annotations.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/System.Composition.AttributedModel.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/System.Composition.Convention.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/System.Composition.Hosting.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/System.Composition.Runtime.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/System.Composition.TypedParts.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/System.Diagnostics.PerformanceCounter.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/System.IO.Pipelines.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/System.Runtime.Caching.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/System.Security.AccessControl.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/System.Security.Principal.Windows.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/System.Threading.Channels.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/YamlDotNet.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/cs/Microsoft.CodeAnalysis.resources.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/de/Microsoft.CodeAnalysis.resources.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/es/Microsoft.CodeAnalysis.resources.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/fr/Microsoft.CodeAnalysis.resources.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/it/Microsoft.CodeAnalysis.resources.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/ja/Microsoft.CodeAnalysis.resources.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/ko/Microsoft.CodeAnalysis.resources.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/pl/Microsoft.CodeAnalysis.resources.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/ru/Microsoft.CodeAnalysis.resources.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/tr/Microsoft.CodeAnalysis.resources.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/runtimes/unix/lib/netstandard2.0/Microsoft.Win32.Registry.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/runtimes/win/lib/netstandard2.0/Microsoft.Win32.Registry.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/runtimes/alpine-x64/native/libe_sqlite3.so
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/runtimes/linux-arm/native/libe_sqlite3.so
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/runtimes/linux-arm64/native/libe_sqlite3.so
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/runtimes/linux-armel/native/libe_sqlite3.so
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/runtimes/linux-x64/native/libe_sqlite3.so
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/runtimes/linux-x86/native/libe_sqlite3.so
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/runtimes/osx-x64/native/libe_sqlite3.dylib
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/runtimes/win-arm/native/e_sqlite3.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/runtimes/win-arm64/native/e_sqlite3.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/runtimes/win-x64/native/e_sqlite3.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/runtimes/win-x86/native/e_sqlite3.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Diagnostics.PerformanceCounter.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/runtimes/unix/lib/netstandard1.3/System.Net.Http.WinHttpHandler.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/runtimes/win/lib/netstandard1.3/System.Net.Http.WinHttpHandler.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Security.AccessControl.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/System.Security.Principal.Windows.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/System.Security.Principal.Windows.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Example.Catalogos.DataAccess.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Example.Catalogos.DependencyInjection.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Example.Catalogos.Dtos.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Example.Catalogos.Entities.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Example.Catalogos.Facade.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Example.Catalogos.Resources.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Example.Catalogos.Services.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Example.Catalogos.DependencyInjection.pdb
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Example.Catalogos.Facade.pdb
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Example.Catalogos.Resources.pdb
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Example.Catalogos.DataAccess.pdb
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Example.Catalogos.Dtos.pdb
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Example.Catalogos.Entities.pdb
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/bin/Debug/netcoreapp2.1/netcoreapp3.1/Example.Catalogos.Services.pdb
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/obj/Debug/netcoreapp3.1/Example.Catalogos.Api.csprojAssemblyReference.cache
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/obj/Debug/netcoreapp3.1/Example.Catalogos.Api.AssemblyInfoInputs.cache
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/obj/Debug/netcoreapp3.1/Example.Catalogos.Api.AssemblyInfo.cs
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/obj/Debug/netcoreapp3.1/Example.Catalogos.Api.csproj.CoreCompileInputs.cache
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/obj/Debug/netcoreapp3.1/Example.Catalogos.Api.MvcApplicationPartsAssemblyInfo.cs
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/obj/Debug/netcoreapp3.1/Example.Catalogos.Api.MvcApplicationPartsAssemblyInfo.cache
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/obj/Debug/netcoreapp3.1/Example.Catalogos.Api.RazorTargetAssemblyInfo.cache
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/obj/Debug/netcoreapp3.1/Example.Catalogos.Api.csproj.CopyComplete
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/obj/Debug/netcoreapp3.1/Example.Catalogos.Api.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/obj/Debug/netcoreapp3.1/Example.Catalogos.Api.pdb
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Api/obj/Debug/netcoreapp3.1/Example.Catalogos.Api.genruntimeconfig.cache

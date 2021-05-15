@@ -1,0 +1,33 @@
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Resources/bin/Debug/netcoreapp3.1/Example.Catalogos.Resources.deps.json
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Resources/bin/Debug/netcoreapp3.1/Example.Catalogos.Resources.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Resources/bin/Debug/netcoreapp3.1/Example.Catalogos.Resources.pdb
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Resources/obj/Debug/netcoreapp3.1/Example.Catalogos.Resources.csprojAssemblyReference.cache
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Resources/obj/Debug/netcoreapp3.1/Example.Catalogos.Resources.AssemblyInfoInputs.cache
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Resources/obj/Debug/netcoreapp3.1/Example.Catalogos.Resources.AssemblyInfo.cs
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Resources/obj/Debug/netcoreapp3.1/Example.Catalogos.Resources.csproj.CoreCompileInputs.cache
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Resources/obj/Debug/netcoreapp3.1/Example.Catalogos.Resources.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.Resources/obj/Debug/netcoreapp3.1/Example.Catalogos.Resources.pdb
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Resources/bin/Debug/netcoreapp3.1/Example.Catalogos.Resources.deps.json
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Resources/bin/Debug/netcoreapp3.1/Example.Catalogos.Resources.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Resources/bin/Debug/netcoreapp3.1/Example.Catalogos.Resources.pdb
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Resources/obj/Debug/netcoreapp3.1/Example.Catalogos.Resources.csprojAssemblyReference.cache
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Resources/obj/Debug/netcoreapp3.1/Example.Catalogos.Resources.AssemblyInfoInputs.cache
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Resources/obj/Debug/netcoreapp3.1/Example.Catalogos.Resources.AssemblyInfo.cs
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Resources/obj/Debug/netcoreapp3.1/Example.Catalogos.Resources.csproj.CoreCompileInputs.cache
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Resources/obj/Debug/netcoreapp3.1/Example.Catalogos.Resources.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Resources/obj/Debug/netcoreapp3.1/Example.Catalogos.Resources.pdb
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Resources/bin/Debug/netcoreapp3.1/Example.Catalogos.Entities.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Resources/bin/Debug/netcoreapp3.1/Example.Catalogos.Entities.pdb
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.Resources/obj/Debug/netcoreapp3.1/Example.Catalogos.Resources.csproj.CopyComplete
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Resources/bin/Debug/netcoreapp3.1/Example.Catalogos.Resources.deps.json
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Resources/bin/Debug/netcoreapp3.1/Example.Catalogos.Resources.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Resources/bin/Debug/netcoreapp3.1/Example.Catalogos.Resources.pdb
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Resources/bin/Debug/netcoreapp3.1/Example.Catalogos.Entities.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Resources/bin/Debug/netcoreapp3.1/Example.Catalogos.Entities.pdb
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Resources/obj/Debug/netcoreapp3.1/Example.Catalogos.Resources.csprojAssemblyReference.cache
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Resources/obj/Debug/netcoreapp3.1/Example.Catalogos.Resources.AssemblyInfoInputs.cache
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Resources/obj/Debug/netcoreapp3.1/Example.Catalogos.Resources.AssemblyInfo.cs
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Resources/obj/Debug/netcoreapp3.1/Example.Catalogos.Resources.csproj.CoreCompileInputs.cache
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Resources/obj/Debug/netcoreapp3.1/Example.Catalogos.Resources.csproj.CopyComplete
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Resources/obj/Debug/netcoreapp3.1/Example.Catalogos.Resources.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Resources/obj/Debug/netcoreapp3.1/Example.Catalogos.Resources.pdb

@@ -1,0 +1,64 @@
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.DependencyInjection/bin/Debug/netcoreapp3.1/Example.Catalogos.DependencyInjection.deps.json
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.DependencyInjection/bin/Debug/netcoreapp3.1/Example.Catalogos.DependencyInjection.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.DependencyInjection/bin/Debug/netcoreapp3.1/Example.Catalogos.DependencyInjection.pdb
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.DependencyInjection/bin/Debug/netcoreapp3.1/Example.Catalogos.DataAccess.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.DependencyInjection/bin/Debug/netcoreapp3.1/Example.Catalogos.Dtos.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.DependencyInjection/bin/Debug/netcoreapp3.1/Example.Catalogos.Entities.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.DependencyInjection/bin/Debug/netcoreapp3.1/Example.Catalogos.Facade.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.DependencyInjection/bin/Debug/netcoreapp3.1/Example.Catalogos.Services.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.DependencyInjection/bin/Debug/netcoreapp3.1/Example.Catalogos.DataAccess.pdb
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.DependencyInjection/bin/Debug/netcoreapp3.1/Example.Catalogos.Facade.pdb
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.DependencyInjection/bin/Debug/netcoreapp3.1/Example.Catalogos.Dtos.pdb
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.DependencyInjection/bin/Debug/netcoreapp3.1/Example.Catalogos.Entities.pdb
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.DependencyInjection/bin/Debug/netcoreapp3.1/Example.Catalogos.Services.pdb
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.DependencyInjection/obj/Debug/netcoreapp3.1/Example.Catalogos.DependencyInjection.csprojAssemblyReference.cache
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.DependencyInjection/obj/Debug/netcoreapp3.1/Example.Catalogos.DependencyInjection.AssemblyInfoInputs.cache
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.DependencyInjection/obj/Debug/netcoreapp3.1/Example.Catalogos.DependencyInjection.AssemblyInfo.cs
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.DependencyInjection/obj/Debug/netcoreapp3.1/Example.Catalogos.DependencyInjection.csproj.CoreCompileInputs.cache
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.DependencyInjection/obj/Debug/netcoreapp3.1/Example.Catalogos.DependencyInjection.csproj.CopyComplete
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.DependencyInjection/obj/Debug/netcoreapp3.1/Example.Catalogos.DependencyInjection.dll
+C:/Users/hmeraz/Desktop/Archetypes/netcore3-generator/netcore3-generator/catalogos-service/Example.Catalogos.DependencyInjection/obj/Debug/netcoreapp3.1/Example.Catalogos.DependencyInjection.pdb
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.DependencyInjection/bin/Debug/netcoreapp3.1/Example.Catalogos.DependencyInjection.deps.json
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.DependencyInjection/bin/Debug/netcoreapp3.1/Example.Catalogos.DependencyInjection.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.DependencyInjection/bin/Debug/netcoreapp3.1/Example.Catalogos.DependencyInjection.pdb
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.DependencyInjection/bin/Debug/netcoreapp3.1/Example.Catalogos.DataAccess.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.DependencyInjection/bin/Debug/netcoreapp3.1/Example.Catalogos.Dtos.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.DependencyInjection/bin/Debug/netcoreapp3.1/Example.Catalogos.Entities.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.DependencyInjection/bin/Debug/netcoreapp3.1/Example.Catalogos.Facade.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.DependencyInjection/bin/Debug/netcoreapp3.1/Example.Catalogos.Services.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.DependencyInjection/bin/Debug/netcoreapp3.1/Example.Catalogos.DataAccess.pdb
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.DependencyInjection/bin/Debug/netcoreapp3.1/Example.Catalogos.Facade.pdb
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.DependencyInjection/bin/Debug/netcoreapp3.1/Example.Catalogos.Dtos.pdb
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.DependencyInjection/bin/Debug/netcoreapp3.1/Example.Catalogos.Entities.pdb
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.DependencyInjection/bin/Debug/netcoreapp3.1/Example.Catalogos.Services.pdb
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.DependencyInjection/obj/Debug/netcoreapp3.1/Example.Catalogos.DependencyInjection.csprojAssemblyReference.cache
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.DependencyInjection/obj/Debug/netcoreapp3.1/Example.Catalogos.DependencyInjection.AssemblyInfoInputs.cache
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.DependencyInjection/obj/Debug/netcoreapp3.1/Example.Catalogos.DependencyInjection.AssemblyInfo.cs
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.DependencyInjection/obj/Debug/netcoreapp3.1/Example.Catalogos.DependencyInjection.csproj.CoreCompileInputs.cache
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.DependencyInjection/obj/Debug/netcoreapp3.1/Example.Catalogos.DependencyInjection.csproj.CopyComplete
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.DependencyInjection/obj/Debug/netcoreapp3.1/Example.Catalogos.DependencyInjection.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.DependencyInjection/obj/Debug/netcoreapp3.1/Example.Catalogos.DependencyInjection.pdb
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.DependencyInjection/bin/Debug/netcoreapp3.1/Example.Catalogos.Resources.dll
+C:/Users/Axity/Documents/Capacitación Axity/CAP Microservicios NET/catalogos-service/Example.Catalogos.DependencyInjection/bin/Debug/netcoreapp3.1/Example.Catalogos.Resources.pdb
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.DependencyInjection/bin/Debug/netcoreapp3.1/Example.Catalogos.DependencyInjection.deps.json
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.DependencyInjection/bin/Debug/netcoreapp3.1/Example.Catalogos.DependencyInjection.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.DependencyInjection/bin/Debug/netcoreapp3.1/Example.Catalogos.DependencyInjection.pdb
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.DependencyInjection/bin/Debug/netcoreapp3.1/Example.Catalogos.DataAccess.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.DependencyInjection/bin/Debug/netcoreapp3.1/Example.Catalogos.Dtos.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.DependencyInjection/bin/Debug/netcoreapp3.1/Example.Catalogos.Entities.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.DependencyInjection/bin/Debug/netcoreapp3.1/Example.Catalogos.Facade.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.DependencyInjection/bin/Debug/netcoreapp3.1/Example.Catalogos.Resources.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.DependencyInjection/bin/Debug/netcoreapp3.1/Example.Catalogos.Services.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.DependencyInjection/bin/Debug/netcoreapp3.1/Example.Catalogos.DataAccess.pdb
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.DependencyInjection/bin/Debug/netcoreapp3.1/Example.Catalogos.Facade.pdb
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.DependencyInjection/bin/Debug/netcoreapp3.1/Example.Catalogos.Dtos.pdb
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.DependencyInjection/bin/Debug/netcoreapp3.1/Example.Catalogos.Entities.pdb
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.DependencyInjection/bin/Debug/netcoreapp3.1/Example.Catalogos.Resources.pdb
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.DependencyInjection/bin/Debug/netcoreapp3.1/Example.Catalogos.Services.pdb
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.DependencyInjection/obj/Debug/netcoreapp3.1/Example.Catalogos.DependencyInjection.csprojAssemblyReference.cache
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.DependencyInjection/obj/Debug/netcoreapp3.1/Example.Catalogos.DependencyInjection.AssemblyInfoInputs.cache
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.DependencyInjection/obj/Debug/netcoreapp3.1/Example.Catalogos.DependencyInjection.AssemblyInfo.cs
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.DependencyInjection/obj/Debug/netcoreapp3.1/Example.Catalogos.DependencyInjection.csproj.CoreCompileInputs.cache
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.DependencyInjection/obj/Debug/netcoreapp3.1/Example.Catalogos.DependencyInjection.csproj.CopyComplete
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.DependencyInjection/obj/Debug/netcoreapp3.1/Example.Catalogos.DependencyInjection.dll
+/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.DependencyInjection/obj/Debug/netcoreapp3.1/Example.Catalogos.DependencyInjection.pdb

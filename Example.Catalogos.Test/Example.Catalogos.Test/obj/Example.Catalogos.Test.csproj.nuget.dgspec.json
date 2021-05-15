@@ -1,0 +1,416 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Axity\\Documents\\Capacitación Axity\\CAP Microservicios NET\\catalogos-service\\Example.Catalogos.Test\\Example.Catalogos.Test\\Example.Catalogos.Test.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Axity\\Documents\\Capacitación Axity\\CAP Microservicios NET\\catalogos-service\\Example.Catalogos.DataAccess\\Example.Catalogos.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Axity\\Documents\\Capacitación Axity\\CAP Microservicios NET\\catalogos-service\\Example.Catalogos.DataAccess\\Example.Catalogos.DataAccess.csproj",
+        "projectName": "Example.Catalogos.DataAccess",
+        "projectPath": "C:\\Users\\Axity\\Documents\\Capacitación Axity\\CAP Microservicios NET\\catalogos-service\\Example.Catalogos.DataAccess\\Example.Catalogos.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Axity\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Axity\\Documents\\Capacitación Axity\\CAP Microservicios NET\\catalogos-service\\Example.Catalogos.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Axity\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Axity\\Documents\\Capacitación Axity\\CAP Microservicios NET\\catalogos-service\\Example.Catalogos.Repository\\Example.Catalogos.Entities.csproj": {
+                "projectPath": "C:\\Users\\Axity\\Documents\\Capacitación Axity\\CAP Microservicios NET\\catalogos-service\\Example.Catalogos.Repository\\Example.Catalogos.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.409\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Axity\\Documents\\Capacitación Axity\\CAP Microservicios NET\\catalogos-service\\Example.Catalogos.Dtos\\Example.Catalogos.Dtos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Axity\\Documents\\Capacitación Axity\\CAP Microservicios NET\\catalogos-service\\Example.Catalogos.Dtos\\Example.Catalogos.Dtos.csproj",
+        "projectName": "Example.Catalogos.Dtos",
+        "projectPath": "C:\\Users\\Axity\\Documents\\Capacitación Axity\\CAP Microservicios NET\\catalogos-service\\Example.Catalogos.Dtos\\Example.Catalogos.Dtos.csproj",
+        "packagesPath": "C:\\Users\\Axity\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Axity\\Documents\\Capacitación Axity\\CAP Microservicios NET\\catalogos-service\\Example.Catalogos.Dtos\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Axity\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.1.118, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.409\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Axity\\Documents\\Capacitación Axity\\CAP Microservicios NET\\catalogos-service\\Example.Catalogos.Facade\\Example.Catalogos.Facade.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Axity\\Documents\\Capacitación Axity\\CAP Microservicios NET\\catalogos-service\\Example.Catalogos.Facade\\Example.Catalogos.Facade.csproj",
+        "projectName": "Example.Catalogos.Facade",
+        "projectPath": "C:\\Users\\Axity\\Documents\\Capacitación Axity\\CAP Microservicios NET\\catalogos-service\\Example.Catalogos.Facade\\Example.Catalogos.Facade.csproj",
+        "packagesPath": "C:\\Users\\Axity\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Axity\\Documents\\Capacitación Axity\\CAP Microservicios NET\\catalogos-service\\Example.Catalogos.Facade\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Axity\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Axity\\Documents\\Capacitación Axity\\CAP Microservicios NET\\catalogos-service\\Example.Catalogos.Services\\Example.Catalogos.Services.csproj": {
+                "projectPath": "C:\\Users\\Axity\\Documents\\Capacitación Axity\\CAP Microservicios NET\\catalogos-service\\Example.Catalogos.Services\\Example.Catalogos.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.1.118, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.409\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Axity\\Documents\\Capacitación Axity\\CAP Microservicios NET\\catalogos-service\\Example.Catalogos.Repository\\Example.Catalogos.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Axity\\Documents\\Capacitación Axity\\CAP Microservicios NET\\catalogos-service\\Example.Catalogos.Repository\\Example.Catalogos.Entities.csproj",
+        "projectName": "Example.Catalogos.Entities",
+        "projectPath": "C:\\Users\\Axity\\Documents\\Capacitación Axity\\CAP Microservicios NET\\catalogos-service\\Example.Catalogos.Repository\\Example.Catalogos.Entities.csproj",
+        "packagesPath": "C:\\Users\\Axity\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Axity\\Documents\\Capacitación Axity\\CAP Microservicios NET\\catalogos-service\\Example.Catalogos.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Axity\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.1.118, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.409\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Axity\\Documents\\Capacitación Axity\\CAP Microservicios NET\\catalogos-service\\Example.Catalogos.Services\\Example.Catalogos.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Axity\\Documents\\Capacitación Axity\\CAP Microservicios NET\\catalogos-service\\Example.Catalogos.Services\\Example.Catalogos.Services.csproj",
+        "projectName": "Example.Catalogos.Services",
+        "projectPath": "C:\\Users\\Axity\\Documents\\Capacitación Axity\\CAP Microservicios NET\\catalogos-service\\Example.Catalogos.Services\\Example.Catalogos.Services.csproj",
+        "packagesPath": "C:\\Users\\Axity\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Axity\\Documents\\Capacitación Axity\\CAP Microservicios NET\\catalogos-service\\Example.Catalogos.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Axity\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Axity\\Documents\\Capacitación Axity\\CAP Microservicios NET\\catalogos-service\\Example.Catalogos.DataAccess\\Example.Catalogos.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Axity\\Documents\\Capacitación Axity\\CAP Microservicios NET\\catalogos-service\\Example.Catalogos.DataAccess\\Example.Catalogos.DataAccess.csproj"
+              },
+              "C:\\Users\\Axity\\Documents\\Capacitación Axity\\CAP Microservicios NET\\catalogos-service\\Example.Catalogos.Dtos\\Example.Catalogos.Dtos.csproj": {
+                "projectPath": "C:\\Users\\Axity\\Documents\\Capacitación Axity\\CAP Microservicios NET\\catalogos-service\\Example.Catalogos.Dtos\\Example.Catalogos.Dtos.csproj"
+              },
+              "C:\\Users\\Axity\\Documents\\Capacitación Axity\\CAP Microservicios NET\\catalogos-service\\Example.Catalogos.Repository\\Example.Catalogos.Entities.csproj": {
+                "projectPath": "C:\\Users\\Axity\\Documents\\Capacitación Axity\\CAP Microservicios NET\\catalogos-service\\Example.Catalogos.Repository\\Example.Catalogos.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.0.0, )"
+            },
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.1.118, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.409\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Axity\\Documents\\Capacitación Axity\\CAP Microservicios NET\\catalogos-service\\Example.Catalogos.Test\\Example.Catalogos.Test\\Example.Catalogos.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Axity\\Documents\\Capacitación Axity\\CAP Microservicios NET\\catalogos-service\\Example.Catalogos.Test\\Example.Catalogos.Test\\Example.Catalogos.Test.csproj",
+        "projectName": "Example.Catalogos.Test",
+        "projectPath": "C:\\Users\\Axity\\Documents\\Capacitación Axity\\CAP Microservicios NET\\catalogos-service\\Example.Catalogos.Test\\Example.Catalogos.Test\\Example.Catalogos.Test.csproj",
+        "packagesPath": "C:\\Users\\Axity\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Axity\\Documents\\Capacitación Axity\\CAP Microservicios NET\\catalogos-service\\Example.Catalogos.Test\\Example.Catalogos.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Axity\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Axity\\Documents\\Capacitación Axity\\CAP Microservicios NET\\catalogos-service\\Example.Catalogos.Facade\\Example.Catalogos.Facade.csproj": {
+                "projectPath": "C:\\Users\\Axity\\Documents\\Capacitación Axity\\CAP Microservicios NET\\catalogos-service\\Example.Catalogos.Facade\\Example.Catalogos.Facade.csproj"
+              },
+              "C:\\Users\\Axity\\Documents\\Capacitación Axity\\CAP Microservicios NET\\catalogos-service\\Example.Catalogos.Repository\\Example.Catalogos.Entities.csproj": {
+                "projectPath": "C:\\Users\\Axity\\Documents\\Capacitación Axity\\CAP Microservicios NET\\catalogos-service\\Example.Catalogos.Repository\\Example.Catalogos.Entities.csproj"
+              },
+              "C:\\Users\\Axity\\Documents\\Capacitación Axity\\CAP Microservicios NET\\catalogos-service\\Example.Catalogos.Services\\Example.Catalogos.Services.csproj": {
+                "projectPath": "C:\\Users\\Axity\\Documents\\Capacitación Axity\\CAP Microservicios NET\\catalogos-service\\Example.Catalogos.Services\\Example.Catalogos.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.6.1, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.14.5, )"
+            },
+            "NUnit3TestAdapter": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.16.1, )"
+            },
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.1.118, )"
+            },
+            "coverlet.msbuild": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.9.0, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.409\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

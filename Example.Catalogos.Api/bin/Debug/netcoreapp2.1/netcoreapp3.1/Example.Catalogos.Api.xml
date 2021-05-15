@@ -1,0 +1,169 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Example.Catalogos.Api</name>
+    </assembly>
+    <members>
+        <member name="T:Example.Catalogos.Api.Controllers.CatalogosController">
+            <summary>
+            Class Catalogos Controller.
+            </summary>
+        </member>
+        <member name="M:Example.Catalogos.Api.Controllers.CatalogosController.#ctor(Example.Catalogos.Facade.Catalogos.ICatalogosFacade)">
+            <summary>
+            Initializes a new instance of the <see cref="T:Example.Catalogos.Api.Controllers.CatalogosController"/> class.
+            </summary>
+            <param name="logicFacade">Catalogos Facade.</param>
+        </member>
+        <member name="M:Example.Catalogos.Api.Controllers.CatalogosController.Get">
+            <summary>
+            Method to get all Catalogos.
+            </summary>
+            <returns>List of Catalogos.</returns>
+        </member>
+        <member name="M:Example.Catalogos.Api.Controllers.CatalogosController.Get(System.Int32)">
+            <summary>
+            Method to get Catalogos By Id.
+            </summary>
+            <param name="CatalogosId">Catalogos Id.</param>
+            <returns>Catalogos Model.</returns>
+        </member>
+        <member name="M:Example.Catalogos.Api.Controllers.CatalogosController.Post(Example.Catalogos.Dtos.Catalogos.CatalogosDto)">
+            <summary>
+            Method to Add Catalogos.
+            </summary>
+            <param name="dataToStore">Catalogos Model.</param>
+            <returns>Success or exception.</returns>
+        </member>
+        <member name="M:Example.Catalogos.Api.Controllers.CatalogosController.Put(Example.Catalogos.Dtos.Catalogos.CatalogosDto)">
+            <summary>
+            Method to Add Catalogos.
+            </summary>
+            <param name="dataUpdate">Catalogos Model.</param>
+            <returns>Success or exception.</returns>
+        </member>
+        <member name="M:Example.Catalogos.Api.Controllers.CatalogosController.Delete(System.Int32)">
+            <summary>
+            Method to Add Catalogos.
+            </summary>
+            <param name="deleteId">Catalogos Model.</param>
+            <returns>Success or exception.</returns>
+        </member>
+        <member name="M:Example.Catalogos.Api.Controllers.CatalogosController.Ping">
+            <summary>
+            Method Ping.
+            </summary>
+            <returns>Pong.</returns>
+        </member>
+        <member name="T:Example.Catalogos.Api.Filters.CustomActionFilterAttribute">
+            <summary>
+            Class Action Filter.
+            </summary>
+        </member>
+        <member name="M:Example.Catalogos.Api.Filters.CustomActionFilterAttribute.#ctor(Serilog.ILogger)">
+            <summary>
+            Initializes a new instance of the <see cref="T:Example.Catalogos.Api.Filters.CustomActionFilterAttribute"/> class.
+            </summary>
+            <param name="logger">Object Logger.</param>
+        </member>
+        <member name="M:Example.Catalogos.Api.Filters.CustomActionFilterAttribute.OnActionExecuting(Microsoft.AspNetCore.Mvc.Filters.ActionExecutingContext)">
+            <inheritdoc/>
+        </member>
+        <member name="M:Example.Catalogos.Api.Filters.CustomActionFilterAttribute.OnActionExecuted(Microsoft.AspNetCore.Mvc.Filters.ActionExecutedContext)">
+            <inheritdoc/>
+        </member>
+        <member name="M:Example.Catalogos.Api.Filters.CustomActionFilterAttribute.OnResultExecuting(Microsoft.AspNetCore.Mvc.Filters.ResultExecutingContext)">
+            <inheritdoc/>
+        </member>
+        <member name="M:Example.Catalogos.Api.Filters.CustomActionFilterAttribute.OnResultExecuted(Microsoft.AspNetCore.Mvc.Filters.ResultExecutedContext)">
+            <inheritdoc/>
+        </member>
+        <member name="T:Example.Catalogos.Api.Filters.CustomExceptionFilterAttribute">
+            <summary>
+            Class Exception Filter.
+            </summary>
+        </member>
+        <member name="M:Example.Catalogos.Api.Filters.CustomExceptionFilterAttribute.#ctor(Serilog.ILogger)">
+            <summary>
+            Initializes a new instance of the <see cref="T:Example.Catalogos.Api.Filters.CustomExceptionFilterAttribute"/> class.
+            </summary>
+            <param name="logger">Object Logger.</param>
+        </member>
+        <member name="M:Example.Catalogos.Api.Filters.CustomExceptionFilterAttribute.OnException(Microsoft.AspNetCore.Mvc.Filters.ExceptionContext)">
+            <inheritdoc/>
+        </member>
+        <member name="T:Example.Catalogos.Api.Filters.ResponseMiddleware">
+            <summary>
+            Class Response Middlewere.
+            </summary>
+        </member>
+        <member name="M:Example.Catalogos.Api.Filters.ResponseMiddleware.#ctor(Microsoft.AspNetCore.Http.RequestDelegate)">
+            <summary>
+            Initializes a new instance of the <see cref="T:Example.Catalogos.Api.Filters.ResponseMiddleware"/> class.
+            </summary>
+            <param name="next">Request Delegate.</param>
+        </member>
+        <member name="M:Example.Catalogos.Api.Filters.ResponseMiddleware.InvokeAsync(Microsoft.AspNetCore.Http.HttpContext)">
+            <summary>
+            Method to generate histogram response time for request.
+            </summary>
+            <param name="context">Http Context.</param>
+            <returns>Task.</returns>
+        </member>
+        <member name="T:Example.Catalogos.Api.Program">
+            <summary>
+            Class Program.
+            </summary>
+        </member>
+        <member name="M:Example.Catalogos.Api.Program.Main(System.String[])">
+            <summary>
+            Main Program.
+            </summary>
+            <param name="args">List of arguments.</param>
+        </member>
+        <member name="M:Example.Catalogos.Api.Program.CreateWebHostBuilder(System.String[])">
+            <summary>
+            Method to execute app.
+            </summary>
+            <param name="args">List of arguments.</param>
+            <returns>Web Host Builder.</returns>
+        </member>
+        <member name="T:Example.Catalogos.Api.Startup">
+            <summary>
+            Class Startup.
+            </summary>
+        </member>
+        <member name="M:Example.Catalogos.Api.Startup.#ctor(Microsoft.Extensions.Configuration.IConfiguration)">
+            <summary>
+            Initializes a new instance of the <see cref="T:Example.Catalogos.Api.Startup"/> class.
+            </summary>
+            <param name="configuration">App Configuration.</param>
+        </member>
+        <member name="M:Example.Catalogos.Api.Startup.Finalize">
+            <summary>
+            Finalizes an instance of the <see cref="T:Example.Catalogos.Api.Startup"/> class.
+            </summary>
+        </member>
+        <member name="P:Example.Catalogos.Api.Startup.Configuration">
+            <summary>
+            Gets configuration.
+            </summary>
+            <value>
+            App Settings Configuration.
+            </value>
+        </member>
+        <member name="M:Example.Catalogos.Api.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            Method to configure services.
+            </summary>
+            <param name="services">Service Collection.</param>
+        </member>
+        <member name="M:Example.Catalogos.Api.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.AspNetCore.Hosting.IWebHostEnvironment)">
+            <summary>
+            This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
+            </summary>
+            <param name="app">Application Builder.</param>
+            <param name="env">Hosting Environment.</param>
+        </member>
+    </members>
+</doc>

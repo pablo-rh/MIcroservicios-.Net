@@ -1,0 +1,199 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.DataAccess/Example.Catalogos.DataAccess.csproj": {}
+  },
+  "projects": {
+    "/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.DataAccess/Example.Catalogos.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.DataAccess/Example.Catalogos.DataAccess.csproj",
+        "projectName": "Example.Catalogos.DataAccess",
+        "projectPath": "/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.DataAccess/Example.Catalogos.DataAccess.csproj",
+        "packagesPath": "/home/axity/.nuget/packages/",
+        "outputPath": "/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.DataAccess/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/axity/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Repository/Example.Catalogos.Entities.csproj": {
+                "projectPath": "/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Repository/Example.Catalogos.Entities.csproj"
+              },
+              "/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Resources/Example.Catalogos.Resources.csproj": {
+                "projectPath": "/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Resources/Example.Catalogos.Resources.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Repository/Example.Catalogos.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Repository/Example.Catalogos.Entities.csproj",
+        "projectName": "Example.Catalogos.Entities",
+        "projectPath": "/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Repository/Example.Catalogos.Entities.csproj",
+        "packagesPath": "/home/axity/.nuget/packages/",
+        "outputPath": "/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Repository/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/axity/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.1.118, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Resources/Example.Catalogos.Resources.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Resources/Example.Catalogos.Resources.csproj",
+        "projectName": "Example.Catalogos.Resources",
+        "projectPath": "/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Resources/Example.Catalogos.Resources.csproj",
+        "packagesPath": "/home/axity/.nuget/packages/",
+        "outputPath": "/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Resources/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/axity/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Repository/Example.Catalogos.Entities.csproj": {
+                "projectPath": "/home/axity/Desktop/MIcroservicios en Net/catalogos-service/Example.Catalogos.Repository/Example.Catalogos.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.1.118, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
